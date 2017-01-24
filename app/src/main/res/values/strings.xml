@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FPSDemo</string>
+    <string name="scheduledSwapStatus">Dropped frames: %1$d</string>
+    <string name="scheduledSwapRefresh">Refresh period %1$d us</string>
+
+    <string-array name="scheduledSwapUpdateNames">
+        <item>15 fps</item>
+        <item>24 fps</item>
+        <item>25 fps</item>
+        <item>30 fps</item>
+        <item>48 fps</item>
+        <item>60 fps</item>
+        <item>erratic 1/5</item>
+    </string-array>
+
+
+    <string-array name="scheduledSwapAheadNames">
+        <item>ASAP</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
